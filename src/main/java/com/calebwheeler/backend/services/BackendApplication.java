@@ -1,4 +1,4 @@
-package com.calebwheeler.backend.controllers;
+package com.calebwheeler.backend.services;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
